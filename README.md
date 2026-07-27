@@ -17,7 +17,6 @@ University of Greenwich
 
 - 🤖 AI Resume Analyzer
 - 📧 Outlook-style Email System (OOP)
-- 🔐 Password Strength Checker
 - 📋 Habit Tracker CLI
 
 ## 🌱 Currently Learning
