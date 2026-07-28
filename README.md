@@ -16,6 +16,7 @@ University of Greenwich
 ## 🛠 Projects
 
 - 🤖 AI Resume Analyzer
+- 📚 PDF RAG Chatbot
 - 📧 Outlook-style Email System (OOP)
 - 📋 Habit Tracker CLI
 
