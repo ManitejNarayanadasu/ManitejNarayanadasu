@@ -15,10 +15,9 @@ University of Greenwich
 
 ## 🛠 Projects
 
-- 🤖 AI Resume Analyzer
-- 📚 PDF RAG Chatbot
-- 📧 Outlook-style Email System (OOP)
-- 📋 Habit Tracker CLI
+- 🤖 [AI Resume Analyzer](https://github.com/ManitejNarayanadasu/AI_Resume_Analyser)
+- 📚 [PDF RAG Chatbot](https://github.com/ManitejNarayanadasu/PDF-RAG-Chatbot)
+- 📧 [Outlook-style Email System (OOP)](https://github.com/ManitejNarayanadasu/Mailbox-System)
 
 ## 🌱 Currently Learning
 
