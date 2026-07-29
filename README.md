@@ -59,13 +59,9 @@ University of Greenwich
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Manitej-N&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+# 📊 GitHub Streak
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Manitej-N&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manitej-N&theme=dark&hide_border=true&layout=compact)
 
 ---
 
