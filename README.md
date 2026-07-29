@@ -61,13 +61,13 @@ University of Greenwich
 
 # 📊 GitHub Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=Manitej-N&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=ManitejNarayanadasu&theme=dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Manitej-N&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=ManitejNarayanadasu&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
