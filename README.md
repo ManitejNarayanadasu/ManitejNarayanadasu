@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Manitej-N&style=for-the-badge)
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/manitejnarayanadasu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
