@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manitej!;Computer+Science+(AI)+Student;Python+Developer;AI+%7C+Machine+Learning+Enthusiast;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manitej!;Computer+Science+(AI)+Student;Python+Developer;AI+%7C+LLMs+%7C+RAG+%7C+Python;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=Manitej-N&style=for-the-badge)
 
@@ -67,10 +67,8 @@ An object-oriented email management system built to practice **OOP, software des
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI & Data
 
