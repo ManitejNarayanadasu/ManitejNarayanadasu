@@ -32,6 +32,16 @@
 
 ## 🚀 Featured Projects
 
+### 💷 Student Expense Copilot
+
+An AI-powered personal expense analysis platform designed to help students understand spending, detect recurring payments, and discover financial patterns.
+
+**Python · Pandas · Data Processing · AI/LLM**
+
+[🔗 GitHub](https://github.com/ManitejNarayanadasu/Student_Expense_Copilot)
+
+---
+
 ### 🤖 AI Resume Analyser
 
 An LLM-powered application that compares a resume against a target job description and provides actionable feedback.
